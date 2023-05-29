@@ -1,0 +1,86 @@
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Bar.exe
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Bar.deps.json
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Bar.runtimeconfig.json
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Bar.pdb
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.AssemblyReference.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.INVCheck.resources
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.GenerateResource.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.AssemblyInfoInputs.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.AssemblyInfo.cs
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.CoreCompileInputs.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.CopyComplete
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\refint\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.pdb
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.genruntimeconfig.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\ref\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0-windows\Bar.ComponentCheck.resources
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Bar.exe
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Bar.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.AssemblyReference.cache
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.ComponentCheck.resources
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.INVCheck.resources
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.AssemblyInfoInputs.cache
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.AssemblyInfo.cs
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.csproj.CopyComplete
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\refint\Bar.dll
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.pdb
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Bar.deps.json
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Bar.runtimeconfig.json
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\bin\Debug\net6.0-windows\Bar.pdb
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\Bar.genruntimeconfig.cache
+C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\obj\Debug\net6.0-windows\ref\Bar.dll

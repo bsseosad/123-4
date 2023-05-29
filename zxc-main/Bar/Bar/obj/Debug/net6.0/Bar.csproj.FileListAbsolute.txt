@@ -1,0 +1,12 @@
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0\Bar.deps.json
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\bin\Debug\net6.0\Bar.pdb
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.csproj.AssemblyReference.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.AssemblyInfoInputs.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.AssemblyInfo.cs
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.csproj.CoreCompileInputs.cache
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\refint\Bar.dll
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\Bar.pdb
+C:\Users\bsseo\source\repos\Bar\Bar\obj\Debug\net6.0\ref\Bar.dll

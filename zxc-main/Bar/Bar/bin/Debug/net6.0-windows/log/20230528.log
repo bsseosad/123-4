@@ -1,0 +1,238 @@
+2023-05-28 13:49:16.316,Microsoft.Data.SqlClient.SqlException (0x80131904): 개체 이름 'dbo.inverterComponent'이(가) 유효하지 않습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 40
+ClientConnectionId:cdfbc0b9-ca48-4d88-b6c3-9eb3668ecfc8
+Error Number:208,State:1,Class:16
+2023-05-28 13:51:20.270,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 58
+2023-05-28 13:51:42.060,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 58
+2023-05-28 13:58:28.238,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 58
+2023-05-28 13:59:20.270,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 54
+2023-05-28 14:00:23.378,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 48
+2023-05-28 20:31:31.195,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 60
+2023-05-28 20:36:55.556,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 62
+2023-05-28 20:37:20.928,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 61
+2023-05-28 20:37:46.269,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 61
+2023-05-28 20:38:41.410,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 58
+2023-05-28 20:39:16.078,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 59
+2023-05-28 20:39:51.762,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 57
+2023-05-28 20:45:02.172,Microsoft.Data.SqlClient.SqlException (0x80131904): 'Limit' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 40
+ClientConnectionId:1adcff84-fee4-41de-94eb-4ab3d734da24
+Error Number:102,State:1,Class:15
+2023-05-28 20:45:48.685,Microsoft.Data.SqlClient.SqlException (0x80131904): 'Limit' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 40
+ClientConnectionId:3c4cc40c-ee5c-4d80-9cd7-79d928b18ebd
+Error Number:102,State:1,Class:15
+2023-05-28 20:47:54.635,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 47
+2023-05-28 20:48:18.897,Microsoft.Data.SqlClient.SqlException (0x80131904): 'Limit' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 40
+ClientConnectionId:60c77f96-955d-48e9-bb78-b4653d6b1f77
+Error Number:102,State:1,Class:15
+2023-05-28 20:50:22.839,Microsoft.Data.SqlClient.SqlException (0x80131904): 'Limit' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 40
+ClientConnectionId:aa3f977a-24f4-42fc-9403-f2f7a0a57253
+Error Number:102,State:1,Class:15
+2023-05-28 20:53:17.258,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 47
+2023-05-28 20:53:18.370,Microsoft.Data.SqlClient.SqlException (0x80131904): 변수 이름 '@barcode'이(가) 이미 선언되었습니다. 변수 이름은 쿼리 일괄 처리 또는 저장 프로시저 내에서 고유해야 합니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 76
+ClientConnectionId:e68aea16-52b2-408e-8029-358fbe2f14c6
+Error Number:134,State:1,Class:15
+2023-05-28 20:54:35.465,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 47
+2023-05-28 20:54:36.852,Microsoft.Data.SqlClient.SqlException (0x80131904): 변수 이름 '@barcode'이(가) 이미 선언되었습니다. 변수 이름은 쿼리 일괄 처리 또는 저장 프로시저 내에서 고유해야 합니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 76
+ClientConnectionId:a8c83fa7-9efd-4852-a633-e2c80a31ff33
+Error Number:134,State:1,Class:15
+2023-05-28 20:55:47.354,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 47
+2023-05-28 20:55:48.685,Microsoft.Data.SqlClient.SqlException (0x80131904): 열 이름 'CAP_BARCODEE'이(가) 유효하지 않습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 72
+ClientConnectionId:6d6c588c-ad02-4662-bc3c-b964935a97ca
+Error Number:207,State:1,Class:16
+2023-05-28 20:56:32.244,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 47
+2023-05-28 20:56:33.971,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\sbs\Desktop\새 폴더\zxc-main\Bar\Bar\ComponentCheck.cs:line 78
